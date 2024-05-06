@@ -1,0 +1,81 @@
+{
+  "cities": [
+    {
+      "id": "56fd",
+      "cityName": "Babai",
+      "date": "2024-05-06T14:44:39.412Z",
+      "emoji": "IN",
+      "notes": "mumbai",
+      "position": {
+        "lat": "22.755920681486405",
+        "lng": "77.8271484375"
+      }
+    },
+    {
+      "id": "7e43",
+      "cityName": "Banos de Valdearados",
+      "date": "2024-05-06T14:57:29.197Z",
+      "emoji": "ES",
+      "notes": "",
+      "position": {
+        "lat": "41.78769700539063",
+        "lng": "-3.5815429687500004"
+      }
+    },
+    {
+      "id": "c6d4",
+      "cityName": "Almoguera",
+      "date": "2024-05-06T14:57:42.095Z",
+      "emoji": "ES",
+      "notes": "",
+      "position": {
+        "lat": "40.27952566881291",
+        "lng": "-3.1420898437500004"
+      }
+    },
+    {
+      "id": "0c3a",
+      "cityName": "El Cabaco",
+      "date": "2024-05-06T14:59:19.352Z",
+      "emoji": "ES",
+      "notes": "",
+      "position": {
+        "lat": "40.613952441166596",
+        "lng": "-6.130371093750001"
+      }
+    },
+    {
+      "id": "f6d1",
+      "cityName": "Bardenas Reales",
+      "date": "2024-05-06T15:38:27.670Z",
+      "emoji": "ES",
+      "notes": "",
+      "position": {
+        "lat": "42.13082130188811",
+        "lng": "-1.4941406250000002"
+      }
+    },
+    {
+      "id": "8d06",
+      "cityName": "Linares de Mora",
+      "date": "2024-05-06T15:40:00.767Z",
+      "emoji": "ES",
+      "notes": "",
+      "position": {
+        "lat": "40.36328834091583",
+        "lng": "-0.5493164062500001"
+      }
+    },
+    {
+      "id": "c541",
+      "cityName": "Benavarri / Benabarre",
+      "date": "2024-05-06T15:41:26.408Z",
+      "emoji": "ES",
+      "notes": "",
+      "position": {
+        "lat": "42.09822241118974",
+        "lng": "0.43945312500000006"
+      }
+    }
+  ]
+}
